@@ -1,6 +1,6 @@
 # Power BI Sales Dashboard — Awesome Chocolates
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
+![Dashboard Preview](screenshots/pbi-awesome-chocolates-dashboard.png)
 
 ## Overview
 
