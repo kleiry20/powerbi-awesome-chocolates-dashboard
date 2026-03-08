@@ -1,5 +1,9 @@
 # Power BI Sales Dashboard — Awesome Chocolates
 
+# Power BI Sales Dashboard
+
+![Dashboard Preview](screenshots/dashboard-overview.png)
+
 ## Overview
 
 This project demonstrates a basic end-to-end analytics workflow using **MySQL and Power BI**.
