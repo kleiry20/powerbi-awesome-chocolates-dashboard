@@ -71,7 +71,13 @@ in
     Result
 ```
 
-Changing the parameter (e.g. `P04`, `P05`, `P06`) updates all dashboard visuals automatically.
+Changing the parameter (e.g. `P02`, `P06`, `P07`) updates all dashboard visuals automatically.
+
+Product: P02 
+![Dashboard P02](screenshots/dashboard_P02.png)
+
+Product: P07
+![Dashboard P07](screenshots/dashboard_P07.png)
 
 
 
